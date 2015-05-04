@@ -4,3 +4,4 @@
 - https://phaser.io/examples
 - http://gamemechanicexplorer.com/#bullets-1
 - https://github.com/photonstorm/phaser-examples
+- https://www.youtube.com/watch?v=riUx2G75mas
