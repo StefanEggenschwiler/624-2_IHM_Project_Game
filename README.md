@@ -1,1 +1,1 @@
-# 624-2_IHM_Project_Game
+# 624-2 IHM Project Game
